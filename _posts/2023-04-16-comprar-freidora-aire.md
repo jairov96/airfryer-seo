@@ -2,7 +2,7 @@
 layout: post
 title:  "Por que comprar una freidora de aire"
 categories: [ Jekyll, tutorial ]
-image: assets/images/freidora-aire-cocina.webp
+image: assets/images/freidora-aire-cocina.jpg
 ---
 # Las mejores freidoras de aire para comprar en 2023
 
