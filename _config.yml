@@ -1,6 +1,6 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
-timezone: UTC
+timezone: Europe/Madrid
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -19,7 +19,7 @@ kramdown:
     disable: true
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 ganalytics: UA-113961478-1
 
 # Authors
